@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtRnD", "JwtRnD\JwtRnD.csproj", "{5408ECC9-1909-43C6-A82C-02283332BEDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5408ECC9-1909-43C6-A82C-02283332BEDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5408ECC9-1909-43C6-A82C-02283332BEDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5408ECC9-1909-43C6-A82C-02283332BEDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5408ECC9-1909-43C6-A82C-02283332BEDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
